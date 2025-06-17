@@ -59,4 +59,4 @@ Mostly passionate about Backend development and modern web technologies.
 
 ## 📈 GitHub stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=showemeowkx&show_icons=true&theme=default) ![GitHub Streak](https://streak-stats.demolab.com/?user=showemeowkx&theme=default)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=showemeowkx&show_icons=true&theme=default)
