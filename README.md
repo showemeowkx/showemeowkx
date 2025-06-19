@@ -56,6 +56,5 @@ Mostly passionate about Backend development and modern web technologies.
 ## 📈 GitHub stats
 
 <p>
-  <img src="https://github-readme-stats.vercel.app/api?username=showemeowkx&show_icons=true&theme=default" width="350"/>
-  <img src="https://streak-stats.demolab.com/?user=showemeowkx&theme=default" width="390" height="145"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=showemeowkx&show_icons=true&theme=default" height="165"/><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=showemeowkx&layout=compact&theme=default">
 </p>
