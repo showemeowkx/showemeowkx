@@ -1,16 +1,16 @@
-# 👋 Hi there! It's Oleksandr Cherepov
+# `<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand.png" alt="Waving Hand" width="25" height="25" />` Hi there! It's Oleksandr Cherepov
 
 I'm a motivated second-year student majoring in Software Engineering at [FICE, KPI](https://kpi.ua/en/fiot).
 Mostly passionate about Backend development and modern web technologies.
 
-## 👀 A bit more about me
+## `<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Eyes.png" alt="Eyes" width="25" height="25" />` A bit more about me
 
 - 🧱 Currently working on a **Backend part** of the **RateMe** project.
 - 🔧 Learning more about **Blockchain Development** and **Web 3.0** technologies.
 - 🧪 Fun fact: I like creating **GUI Desktop Apps** using **Python** as a hobby.
 - 😋 Also check out my [CV](https://drive.google.com/file/d/1Anpu46Bq2aRSu_gMFZ4gKdwR_vc_DvCL/view?usp=sharing) and [Skills](https://github.com/showemeowkx/SelfAssessment).
 
-## 🙋‍♂️ Connect with me
+## `<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People/Man%20Raising%20Hand.png" alt="Man Raising Hand" width="25" height="25" />` Connect with me
 
 <a href="https://www.linkedin.com/in/showemeowkx/">
   <img src="https://camo.githubusercontent.com/8c0692475a5bfc1d9e7361074bdb648e567cae7b5b40ffd32adae31180b0d7b6/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4c696e6b6564496e2d3030373742353f7374796c653d666f722d7468652d6261646765266c6f676f3d6c696e6b6564696e266c6f676f436f6c6f723d7768697465"/>
@@ -24,7 +24,7 @@ Mostly passionate about Backend development and modern web technologies.
 
 ---
 
-## 🛠️ Tech Stack
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Hammer%20and%20Wrench.png" alt="Hammer and Wrench" width="25" height="25" /> Tech Stack
 
 ### Languages:
 
@@ -44,7 +44,7 @@ Mostly passionate about Backend development and modern web technologies.
 
 ---
 
-## 🚀 Projects
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Rocket.png" alt="Rocket" width="25" height="25" /> Projects
 
 | 💻 Technology         | ⚙️ Projects                                                                                                                                                                                                                                                                                                  |
 | --------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
@@ -53,7 +53,7 @@ Mostly passionate about Backend development and modern web technologies.
 
 ---
 
-## 📈 GitHub stats
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Chart%20Increasing.png" alt="Chart Increasing" width="25" height="25" /> GitHub stats
 
 <p>
   <img src="https://github-readme-stats.vercel.app/api?username=showemeowkx&show_icons=true&theme=default" height="165"/><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=showemeowkx&layout=compact&theme=default">
