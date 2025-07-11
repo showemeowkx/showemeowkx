@@ -8,7 +8,7 @@ Mostly passionate about Backend development and modern web technologies.
 - 🧱 Currently working on a **Backend part** of the **RateMe** project.
 - 🔧 Learning more about **Blockchain Development** and **Web 3.0** technologies.
 - 🧪 Fun fact: I like creating **GUI Desktop Apps** using **Python** as a hobby.
-- 😋 Also check out my [CV](https://drive.google.com/file/d/1Anpu46Bq2aRSu_gMFZ4gKdwR_vc_DvCL/view?usp=sharing) and [Skills](https://github.com/showemeowkx/SelfAssessment).
+- 😋 Also check out my [CV](https://drive.google.com/file/d/1ft1Evo4MjloioFY5G7ooeBk9S-nWp7M_/view?usp=sharing) and [Skills](https://github.com/showemeowkx/SelfAssessment).
 
 ## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People/Man%20Raising%20Hand.png" alt="Man Raising Hand" width="25" height="25" /> Connect with me
 
