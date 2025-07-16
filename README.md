@@ -32,11 +32,11 @@ Mostly passionate about Backend development and modern web technologies.
 
 ### Backend technologies:
 
-<img src="https://img.shields.io/badge/Node%20js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" /> <img src="https://img.shields.io/badge/nestjs-E0234E?style=for-the-badge&logo=nestjs&logoColor=white" /> <img src="https://img.shields.io/badge/fastapi-109989?style=for-the-badge&logo=FASTAPI&logoColor=white" /> <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white"/>
+<img src="https://img.shields.io/badge/Node%20js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" /> <img src="https://img.shields.io/badge/nestjs-E0234E?style=for-the-badge&logo=nestjs&logoColor=white" /> <img src="https://img.shields.io/badge/fastapi-109989?style=for-the-badge&logo=FASTAPI&logoColor=white" /> <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white"/> <img src="https://img.shields.io/badge/GraphQl-E10098?style=for-the-badge&logo=graphql&logoColor=white"/>
 
 ### Databases:
 
-<img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" /> <img src="https://img.shields.io/badge/Sqlite-003B57?style=for-the-badge&logo=sqlite&logoColor=white" />
+<img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" /> <img src="https://img.shields.io/badge/Sqlite-003B57?style=for-the-badge&logo=sqlite&logoColor=white" /> <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white"/>
 
 ### Tools I use:
 
@@ -48,7 +48,7 @@ Mostly passionate about Backend development and modern web technologies.
 
 | 💻 Technology         | ⚙️ Projects                                                                                                                                                                                                                                                                                                  |
 | --------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
-| TypeScript/JavaScript | [![RateMe](https://img.shields.io/badge/-RateMe-000?logo=github&logoColor=white&style=flat)](https://github.com/showemeowkx/RateMe) [![Task Management App](https://img.shields.io/badge/-TaskManagementApp-000?logo=github&logoColor=white&style=flat)](https://github.com/showemeowkx/Task-Management-App) |
+| TypeScript/JavaScript | [![RateMe](https://img.shields.io/badge/-RateMe-000?logo=github&logoColor=white&style=flat)](https://github.com/showemeowkx/RateMe) [![Task Management App](https://img.shields.io/badge/-TaskManagementApp-000?logo=github&logoColor=white&style=flat)](https://github.com/showemeowkx/Task-Management-App) [![School Management App](https://img.shields.io/badge/-SchoolManagementApp-000?logo=github&logoColor=white&style=flat)](https://github.com/showemeowkx/School-Management-App)|
 | Python                | [![Graph Visualizer](https://img.shields.io/badge/-GraphVisualizer-000?logo=github&logoColor=white&style=flat)](https://github.com/showemeowkx/Graph-visualizer)                                                                                                                                             |
 
 ---
