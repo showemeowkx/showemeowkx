@@ -1,6 +1,6 @@
 # <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand.png" alt="Waving Hand" width="25" height="25" /> Hi there! It's Oleksandr Cherepov
 
-I'm a motivated second-year student majoring in Software Engineering at [FICE, KPI](https://kpi.ua/en/fiot).
+I'm a motivated developer majoring in Software Engineering at [FICE, KPI](https://kpi.ua/en/fiot).
 Mostly passionate about Backend development and modern web technologies.
 
 ## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Eyes.png" alt="Eyes" width="25" height="25" /> A bit more about me
@@ -8,7 +8,7 @@ Mostly passionate about Backend development and modern web technologies.
 - 🧱 Currently working on a **Backend part** of the **RateMe** project.
 - 🔧 Learning more about **Blockchain Development** and **Web 3.0** technologies.
 - 🧪 Fun fact: I like creating **GUI Desktop Apps** using **Python** as a hobby.
-- 😋 Also check out my [CV](https://drive.google.com/file/d/1ft1Evo4MjloioFY5G7ooeBk9S-nWp7M_/view?usp=sharing) and [Skills](https://github.com/showemeowkx/SelfAssessment).
+- 😋 Also check out my [CV](https://drive.google.com/file/d/14CsQTSwKV_XwK3doNxqlPFrxInn6g2Lh/view?usp=sharing) and [Skills](https://github.com/showemeowkx/SelfAssessment).
 
 ## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People/Man%20Raising%20Hand.png" alt="Man Raising Hand" width="25" height="25" /> Connect with me
 
