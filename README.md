@@ -6,7 +6,7 @@ Mostly passionate about Backend development and modern web technologies.
 ## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Eyes.png" alt="Eyes" width="25" height="25" /> A bit more about me
 
 - 🧱 Currently working on a **Backend part** of the **RateMe** project.
-- 🔧 Learning more about **Blockchain Development** and **Web 3.0** technologies.
+- 🔧 Learning more about **Amazon Web Services** and **Cloud Programming**.
 - 🧪 Fun fact: I like creating **GUI Desktop Apps** using **Python** as a hobby.
 - 😋 Also check out my [CV](https://drive.google.com/file/d/14CsQTSwKV_XwK3doNxqlPFrxInn6g2Lh/view?usp=sharing) and [Skills](https://github.com/showemeowkx/SelfAssessment).
 
