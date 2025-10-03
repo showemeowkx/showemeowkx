@@ -1,11 +1,12 @@
 # <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand.png" alt="Waving Hand" width="25" height="25" /> Hi there! It's Oleksandr Cherepov
 
 I'm a motivated developer majoring in Software Engineering at [FICE, KPI](https://kpi.ua/en/fiot) and Systems Engineering at [WIT, PWR](https://wit.pwr.edu.pl/en/candidates/1st-cycle-studies/systems-engineering/).
+
 Mostly passionate about Backend development and modern web technologies.
 
 ## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Eyes.png" alt="Eyes" width="25" height="25" /> A bit more about me
 
-- 🧱 Currently working on a **Backend part** of the **RateMe** project.
+- 🧱 Currently working as a **Freelancer** and seeking new oportunities.
 - 🔧 Learning more about **Amazon Web Services** and **Cloud Programming**.
 - 🧪 Fun fact: I like creating **GUI Desktop Apps** using **Python** as a hobby.
 - 😋 Also check out my [CV](https://drive.google.com/file/d/1e8U-Arf_gKi3fureoK807vpgusT8jePM/view?usp=sharing) and [Skills](https://github.com/showemeowkx/SelfAssessment).
