@@ -51,11 +51,3 @@ Mostly passionate about Backend development and modern web technologies.
 | --------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
 | TypeScript/JavaScript | [![RateMe](https://img.shields.io/badge/-RateMe-000?logo=github&logoColor=white&style=flat)](https://github.com/showemeowkx/RateMe) [![Task Management App](https://img.shields.io/badge/-TaskManagementApp-000?logo=github&logoColor=white&style=flat)](https://github.com/showemeowkx/Task-Management-App) [![School Management App](https://img.shields.io/badge/-SchoolManagementApp-000?logo=github&logoColor=white&style=flat)](https://github.com/showemeowkx/School-Management-App)|
 | Python                | [![Graph Visualizer](https://img.shields.io/badge/-GraphVisualizer-000?logo=github&logoColor=white&style=flat)](https://github.com/showemeowkx/Graph-visualizer) [![RateMe Parsers](https://img.shields.io/badge/-RateMeParsers-000?logo=github&logoColor=white&style=flat)](https://github.com/showemeowkx/RateMe-Parsers) [![UkrLife](https://img.shields.io/badge/-UkrLife-000?logo=github&logoColor=white&style=flat)](https://github.com/showemeowkx/UkrLife)                                                                                                                                           |
-
----
-
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Chart%20Increasing.png" alt="Chart Increasing" width="25" height="25" /> GitHub stats
-
-<p>
-  <img src="https://github-readme-stats.vercel.app/api?username=showemeowkx&show_icons=true&theme=default" height="165"/><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=showemeowkx&layout=compact&theme=default">
-</p>
