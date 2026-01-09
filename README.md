@@ -7,7 +7,7 @@ Mostly passionate about Backend development and modern web technologies.
 ## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Eyes.png" alt="Eyes" width="25" height="25" /> A bit more about me
 
 - 🧱 Currently working as a **Freelancer** and seeking new oportunities.
-- 🔧 Working on the **Promo Shop App** freelace project.
+- 🔧 Working on the **Promo Shop App** freelance project.
 - 🧪 Fun fact: I like creating **GUI Desktop Apps** using **Python** as a hobby.
 - 😋 Also check out my [CV](https://drive.google.com/file/d/1e8U-Arf_gKi3fureoK807vpgusT8jePM/view?usp=sharing) and [Skills](https://github.com/showemeowkx/SelfAssessment).
 
