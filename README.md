@@ -1,25 +1,26 @@
 # <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand.png" alt="Waving Hand" width="25" height="25" /> Hi there! It's Oleksandr Cherepov
 
-I'm a motivated developer majoring in Software Engineering at [FICE, KPI](https://kpi.ua/en/fiot).
+I'm a motivated developer majoring in Software Engineering at [FICE, KPI](https://kpi.ua/en/fiot) and Systems Engineering at [WIT, PWR](https://wit.pwr.edu.pl/en/candidates/1st-cycle-studies/systems-engineering/).
+
 Mostly passionate about Backend development and modern web technologies.
 
 ## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Eyes.png" alt="Eyes" width="25" height="25" /> A bit more about me
 
-- 🧱 Currently working on a **Backend part** of the **RateMe** project.
-- 🔧 Learning more about **Amazon Web Services** and **Cloud Programming**.
+- 🧱 Currently working as a **Freelancer** and seeking new oportunities.
+- 🔧 Working on the **Promo Shop App** freelance project.
 - 🧪 Fun fact: I like creating **GUI Desktop Apps** using **Python** as a hobby.
-- 😋 Also check out my [CV](https://drive.google.com/file/d/1e8U-Arf_gKi3fureoK807vpgusT8jePM/view?usp=sharing) and [Skills](https://github.com/showemeowkx/SelfAssessment).
+- 😋 Also check out my [CV](https://drive.google.com/file/d/1rkmQmIMXmgnXEJXGWvKgHjR25VNYoPLG/view?usp=sharing) and [Skills](https://github.com/showemeowkx/SelfAssessment).
 
 ## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People/Man%20Raising%20Hand.png" alt="Man Raising Hand" width="25" height="25" /> Connect with me
 
 <a href="https://www.linkedin.com/in/showemeowkx/">
-  <img src="https://camo.githubusercontent.com/8c0692475a5bfc1d9e7361074bdb648e567cae7b5b40ffd32adae31180b0d7b6/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4c696e6b6564496e2d3030373742353f7374796c653d666f722d7468652d6261646765266c6f676f3d6c696e6b6564696e266c6f676f436f6c6f723d7768697465"/>
+  <img src="https://github.com/dheereshag/coloured-icons/blob/master/public/logos/social%20media/linkedin/linkedin.svg" width="35" height="35"/>
 </a> <a href="https://www.instagram.com/everybodydiesinthisplace/?utm_source=ig_web_button_share_sheet">
-  <img src="https://camo.githubusercontent.com/e2ad860f5db0900ef7a51420220056da4c8545a4cdc46af7f7411649a9c63493/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f496e7374616772616d2d4534343035463f7374796c653d666f722d7468652d6261646765266c6f676f3d696e7374616772616d266c6f676f436f6c6f723d7768697465"/>
+  <img src="https://github.com/dheereshag/coloured-icons/blob/master/public/logos/social%20media/instagram/instagram.svg" width="30" height="30"/>
 </a> <a href="https://t.me/showework">
-  <img src="https://camo.githubusercontent.com/8f41682a178e57a174d0c6042e9cdb842c6329b24c34b2bf4206c25e933073a9/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f54656c656772616d2d3243413545303f7374796c653d666f722d7468652d6261646765266c6f676f3d74656c656772616d266c6f676f436f6c6f723d7768697465"/>
+  <img src="https://github.com/dheereshag/coloured-icons/blob/master/public/logos/social%20media/telegram/telegram.svg" width="30" height="30"/>
 </a> <a href="mailto:sashacherepov55@gmail.com">
-  <img src="https://camo.githubusercontent.com/e5cfad4cbb1e023463333923b069b81749d94e8ff5722f851c7bb01d65bb0e95/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f476d61696c2d4431343833363f7374796c653d666f722d7468652d6261646765266c6f676f3d676d61696c266c6f676f436f6c6f723d7768697465"/>
+  <img src="https://github.com/dheereshag/coloured-icons/blob/master/public/logos/technology/gmail/gmail.svg" width="35" height="70"/>
 </a>
 
 ---
@@ -32,11 +33,11 @@ Mostly passionate about Backend development and modern web technologies.
 
 ### Backend technologies:
 
-<img src="https://img.shields.io/badge/Node%20js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" /> <img src="https://img.shields.io/badge/nestjs-E0234E?style=for-the-badge&logo=nestjs&logoColor=white" /> <img src="https://img.shields.io/badge/fastapi-109989?style=for-the-badge&logo=FASTAPI&logoColor=white" /> <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white"/> <img src="https://img.shields.io/badge/GraphQl-E10098?style=for-the-badge&logo=graphql&logoColor=white"/>
+<img src="https://img.shields.io/badge/Node%20js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" /> <img src="https://img.shields.io/badge/nestjs-E0234E?style=for-the-badge&logo=nestjs&logoColor=white" /> <img src="https://img.shields.io/badge/fastapi-109989?style=for-the-badge&logo=FASTAPI&logoColor=white" /> <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" /> <img src="https://img.shields.io/badge/GraphQl-E10098?style=for-the-badge&logo=graphql&logoColor=white" /> <img src="https://img.shields.io/badge/Amazon_Web_Services-FF9900?style=for-the-badge&logo=amazonwebservices&logoColor=white" />
 
 ### Databases:
 
-<img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" /> <img src="https://img.shields.io/badge/Sqlite-003B57?style=for-the-badge&logo=sqlite&logoColor=white" /> <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white"/>
+<img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" /> <img src="https://img.shields.io/badge/Sqlite-003B57?style=for-the-badge&logo=sqlite&logoColor=white" /> <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" /> <img src="https://img.shields.io/badge/redis-%23DD0031.svg?&style=for-the-badge&logo=redis&logoColor=white" />
 
 ### Tools I use:
 
@@ -50,11 +51,3 @@ Mostly passionate about Backend development and modern web technologies.
 | --------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
 | TypeScript/JavaScript | [![RateMe](https://img.shields.io/badge/-RateMe-000?logo=github&logoColor=white&style=flat)](https://github.com/showemeowkx/RateMe) [![Task Management App](https://img.shields.io/badge/-TaskManagementApp-000?logo=github&logoColor=white&style=flat)](https://github.com/showemeowkx/Task-Management-App) [![School Management App](https://img.shields.io/badge/-SchoolManagementApp-000?logo=github&logoColor=white&style=flat)](https://github.com/showemeowkx/School-Management-App)|
 | Python                | [![Graph Visualizer](https://img.shields.io/badge/-GraphVisualizer-000?logo=github&logoColor=white&style=flat)](https://github.com/showemeowkx/Graph-visualizer) [![RateMe Parsers](https://img.shields.io/badge/-RateMeParsers-000?logo=github&logoColor=white&style=flat)](https://github.com/showemeowkx/RateMe-Parsers) [![UkrLife](https://img.shields.io/badge/-UkrLife-000?logo=github&logoColor=white&style=flat)](https://github.com/showemeowkx/UkrLife)                                                                                                                                           |
-
----
-
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Chart%20Increasing.png" alt="Chart Increasing" width="25" height="25" /> GitHub stats
-
-<p>
-  <img src="https://github-readme-stats.vercel.app/api?username=showemeowkx&show_icons=true&theme=default" height="165"/><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=showemeowkx&layout=compact&theme=default">
-</p>
