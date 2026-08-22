@@ -6,8 +6,8 @@ Mostly passionate about Full-Stack development and modern web technologies.
 
 ## A bit more about me
 
-- 🧱 Currently working as a **Freelancer** and seeking new oportunities.
-- 🔧 Working on the **E-commerce Platform** project.
+- 🧱 Currently working as a **Junior Full Stack Software Engineer** at [Automaze Ltd.](https://github.com/automazeio).
+- 🔧 Working on **various work-related** projects.
 - 🧪 Fun fact: I like creating **GUI Desktop Apps** using **Python** as a hobby.
 - 😋 Also check out my [CV](https://drive.google.com/file/d/1MMrXoyXHR7LqgPAzuQzk_cTTlg6pK-in/view?usp=sharing) and [Skills](https://github.com/showemeowkx/SelfAssessment).
 
